@@ -1,0 +1,13 @@
+C:\Users\jruan\source\repos\ExerciciVideosFase_3\ExerciciVideosFase_3\bin\Debug\netcoreapp3.1\ExerciciVideosFase_3.exe
+C:\Users\jruan\source\repos\ExerciciVideosFase_3\ExerciciVideosFase_3\bin\Debug\netcoreapp3.1\ExerciciVideosFase_3.deps.json
+C:\Users\jruan\source\repos\ExerciciVideosFase_3\ExerciciVideosFase_3\bin\Debug\netcoreapp3.1\ExerciciVideosFase_3.runtimeconfig.json
+C:\Users\jruan\source\repos\ExerciciVideosFase_3\ExerciciVideosFase_3\bin\Debug\netcoreapp3.1\ExerciciVideosFase_3.runtimeconfig.dev.json
+C:\Users\jruan\source\repos\ExerciciVideosFase_3\ExerciciVideosFase_3\bin\Debug\netcoreapp3.1\ExerciciVideosFase_3.dll
+C:\Users\jruan\source\repos\ExerciciVideosFase_3\ExerciciVideosFase_3\bin\Debug\netcoreapp3.1\ExerciciVideosFase_3.pdb
+C:\Users\jruan\source\repos\ExerciciVideosFase_3\ExerciciVideosFase_3\obj\Debug\netcoreapp3.1\ExerciciVideosFase_3.csprojAssemblyReference.cache
+C:\Users\jruan\source\repos\ExerciciVideosFase_3\ExerciciVideosFase_3\obj\Debug\netcoreapp3.1\ExerciciVideosFase_3.AssemblyInfoInputs.cache
+C:\Users\jruan\source\repos\ExerciciVideosFase_3\ExerciciVideosFase_3\obj\Debug\netcoreapp3.1\ExerciciVideosFase_3.AssemblyInfo.cs
+C:\Users\jruan\source\repos\ExerciciVideosFase_3\ExerciciVideosFase_3\obj\Debug\netcoreapp3.1\ExerciciVideosFase_3.csproj.CoreCompileInputs.cache
+C:\Users\jruan\source\repos\ExerciciVideosFase_3\ExerciciVideosFase_3\obj\Debug\netcoreapp3.1\ExerciciVideosFase_3.dll
+C:\Users\jruan\source\repos\ExerciciVideosFase_3\ExerciciVideosFase_3\obj\Debug\netcoreapp3.1\ExerciciVideosFase_3.pdb
+C:\Users\jruan\source\repos\ExerciciVideosFase_3\ExerciciVideosFase_3\obj\Debug\netcoreapp3.1\ExerciciVideosFase_3.genruntimeconfig.cache
